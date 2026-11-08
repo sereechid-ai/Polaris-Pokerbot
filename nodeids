@@ -1,0 +1,14 @@
+[
+  "test_agent.py::test_act_before_new_half_is_refused",
+  "test_agent.py::test_bad_token_is_refused_before_the_body_is_read",
+  "test_agent.py::test_crashes_are_reported_to_the_judge",
+  "test_agent.py::test_every_decision_is_legal",
+  "test_agent.py::test_handles_aggressive_opponent",
+  "test_agent.py::test_malformed_body_is_rejected",
+  "test_agent.py::test_memory_is_fresh_each_half",
+  "test_agent.py::test_names_are_set",
+  "test_agent.py::test_new_half_works",
+  "test_agent.py::test_reads_port_from_environment",
+  "test_agent.py::test_token_is_checked",
+  "test_agent.py::test_works_in_both_seats_and_both_halves"
+]
